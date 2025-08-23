@@ -34,7 +34,7 @@ A fast, interactive cryptocurrency explorer built with **React**, **Vite**, and 
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/your-username/crypto-search-app.git
+git clone https://github.com/NatiDevHQ/crypto-search-app.git
 cd crypto-search-app
 npm install
 
