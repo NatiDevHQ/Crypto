@@ -1,4 +1,4 @@
-
+in development 
 # 🚀 Crypto Explorer App
 
 A fast, interactive cryptocurrency explorer built with **React**, **Vite**, and **pure CSS**. Effortlessly search, filter, and visualize real-time market data, rankings, and price trends for the top cryptocurrencies.
