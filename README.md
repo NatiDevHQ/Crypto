@@ -1,4 +1,4 @@
-in development.....
+in development
 
 # 🚀 Crypto Explorer App
 
